@@ -7,4 +7,17 @@
 		<pubDate>Sat, 27 March 2021</pubDate>
 		<lastBuildDate>Sat, 27 March 2021 09:41:01 GMT</lastBuildDate>
 		<docs>https://objectgroup.org/rss.xml</docs>
+		<item>
+			<title>Objectgroup.org Newsletter</title>
+			<link>https://objectgroup.org#newsletter</link>
+			<description>I added a new objectgroup.org newsletter so you can keep up to date with objectgroup all the time <a href="https://mailchi.mp/aa214c11f882/objectgroupnewsletter">here it is</a> and the privacy and conditions are the same as those for all mailchimp mailing lists.</description>
+			<pubDate>Sat, 27 March 2021 09:39:21 GMT</pubDate>
+		</item>
+		<item>
+			<title>One Way Ticket</title>
+			<link>https://objectgroup.org#oneWayTicket</link>
+			<description>Here is a cover and interior page I designed for the late poet Paul Fisher.</description>
+			<pubDate>Sat, 27 March 2021 09:39:21 GMT</pubDate>
+		</item>
+	</channel>
 </rss>
